@@ -378,7 +378,7 @@
       "Terms": "1977-1981",
       "CityBorn": "Plains, Georgia",
       "ImportantInformation": "Nobel Peace Prize laureate; known for his post-presidency humanitarian efforts.",
-      "Age": calculate_age(1924)  # Age will need to be updated as per the current year
+      "Age": 100
     },
     {
       "Name": "Ronald Reagan",

@@ -46,7 +46,7 @@
       "CityBorn": "Port Conway, Virginia",
       "ImportantInformation": "Father of the Constitution.",
       "Age": 85,
-      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/4_James_Madison.webp"
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/4_James_Madison.png"
     },
     {
       "ID": "5",
@@ -58,7 +58,7 @@
       "CityBorn": "Monroe Hall, Virginia",
       "ImportantInformation": "Last president who was a Founding Father.",
       "Age": 73,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/5_James_Monroe.png"
     },
     {
       "ID": "6",
@@ -70,7 +70,7 @@
       "CityBorn": "Braintree, Massachusetts",
       "ImportantInformation": "Son of John Adams, sixth President of the United States.",
       "Age": 81,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/06_john_quincy_adams.png"
     },
     {
       "ID": "7",
@@ -82,7 +82,7 @@
       "CityBorn": "Waxhaws Region, South/North Carolina",
       "ImportantInformation": "Founder of the Democratic Party and modern political campaigning.",
       "Age": 78,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/07_andrew_jackson.png"
     },
     {
       "ID": "8",
@@ -94,7 +94,7 @@
       "CityBorn": "Kinderhook, New York",
       "ImportantInformation": "First President born as a citizen of the United States, not a British subject.",
       "Age": 80,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/08_martin_van_buren.png"
     },
     {
       "ID": "9",
@@ -106,7 +106,7 @@
       "CityBorn": "Charles City County, Virginia",
       "ImportantInformation": "Served the shortest term in U.S. presidential history.",
       "Age": 68,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/09_william_henry_harrison.png"
     },
     {
       "ID": "10",
@@ -118,7 +118,7 @@
       "CityBorn": "Charles City County, Virginia",
       "ImportantInformation": "First Vice President to become President due to the death of the President.",
       "Age": 72,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/10_john_tyler.png"
     },
     {
       "ID": "11",
@@ -130,7 +130,7 @@
       "CityBorn": "Pineville, North Carolina",
       "ImportantInformation": "Led the U.S. during the Mexican-American War.",
       "Age": 53,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/11_james_k_polk.png"
     },
     {
       "ID": "12",
@@ -142,7 +142,7 @@
       "CityBorn": "Barboursville, Virginia",
       "ImportantInformation": "Died in office, making his term one of the shortest in U.S. presidential history.",
       "Age": 65,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/12_zachary_taylor.png"
     },
     {
       "ID": "13",
@@ -154,7 +154,7 @@
       "CityBorn": "Summerhill, New York",
       "ImportantInformation": "Last Whig to be President of the United States.",
       "Age": 74,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/13_millard_filmore.png"
     },
     {
       "ID": "14",
@@ -166,7 +166,7 @@
       "CityBorn": "Hillsborough, New Hampshire",
       "ImportantInformation": "Signed the Kansas-Nebraska Act, which exacerbated sectional tensions.",
       "Age": 64,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/14_franklin_pierce.png""
     },
     {
       "ID": "15",
@@ -178,7 +178,7 @@
       "CityBorn": "Cove Gap, Pennsylvania",
       "ImportantInformation": "Only bachelor President and served immediately prior to the American Civil War.",
       "Age": 77,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/15_james_buchanan.png""
     },
     {
       "ID": "16",
@@ -190,7 +190,7 @@
       "CityBorn": "Hodgenville, Kentucky",
       "ImportantInformation": "Led the nation through the Civil War; Emancipation Proclamation; assassinated in office.",
       "Age": 56,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/16_abraham_lincoln.png"
     },
     {
       "ID": "17",
@@ -202,7 +202,7 @@
       "CityBorn": "Raleigh, North Carolina",
       "ImportantInformation": "First President to be impeached.",
       "Age": 66,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/17_andrew_johnson.png"
     },
     {
       "ID": "18",
@@ -214,7 +214,7 @@
       "CityBorn": "Point Pleasant, Ohio",
       "ImportantInformation": "Commanding general who led the Union to victory in the Civil War.",
       "Age": 63,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/18_ulysses_s_grant.png"
     },
     {
       "ID": "19",
@@ -226,7 +226,7 @@
       "CityBorn": "Delaware, Ohio",
       "ImportantInformation": "Ended Reconstruction in the Southern States.",
       "Age": 70,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/19_rutherford_b_hayes.png"
     },
     {
       "ID": "20",
@@ -238,7 +238,7 @@
       "CityBorn": "Moreland Hills, Ohio",
       "ImportantInformation": "Assassinated in office, serving only six months.",
       "Age": 49,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/20_james_garfield.png"
     },
     {
       "ID": "21",
@@ -250,7 +250,7 @@
       "CityBorn": "Fairfield, Vermont",
       "ImportantInformation": "Took office after the assassination of President Garfield.",
       "Age": 57,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/21_chester_a_arthur.png"
     },
     {
       "ID": "22",
@@ -262,7 +262,7 @@
       "CityBorn": "Caldwell, New Jersey",
       "ImportantInformation": "Only President to serve two non-consecutive terms (22nd and 24th President).",
       "Age": 71,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/22_grover_cleveland.png"
     },
     {
       "ID": "23",
@@ -274,7 +274,7 @@
       "CityBorn": "North Bend, Ohio",
       "ImportantInformation": "Grandson of President William Henry Harrison.",
       "Age": 68,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/23_benjamin_harrison.png"
     },
     {
       "ID": "24",
@@ -286,7 +286,7 @@
       "CityBorn": "Niles, Ohio",
       "ImportantInformation": "Led the nation during the Spanish-American War; assassinated in office.",
       "Age": 58,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/25_william_mckinley.png"
     },
     {
       "ID": "25",
@@ -298,7 +298,7 @@
       "CityBorn": "New York, New York",
       "ImportantInformation": "Known for his vigorous lifestyle, Progressive credentials, and 'Big Stick' diplomacy.",
       "Age": 60,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/26_theodore_roosevelt.png"
     },
     {
       "ID": "26",
@@ -310,7 +310,7 @@
       "CityBorn": "Cincinnati, Ohio",
       "ImportantInformation": "Later served as Chief Justice of the U.S. Supreme Court.",
       "Age": 72,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/27_william_howard_taft.png"
     },
     {
       "ID": "27",
@@ -322,7 +322,7 @@
       "CityBorn": "Staunton, Virginia",
       "ImportantInformation": "Led the United States during World War I and was a key figure in the League of Nations.",
       "Age": 67,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/28_woodrow_wilson.png"
     },
     {
       "ID": "28",
@@ -334,7 +334,7 @@
       "CityBorn": "Blooming Grove, Ohio",
       "ImportantInformation": "Presidency was marred by many scandals, including Teapot Dome.",
       "Age": 57,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/29_warren_g_harding.png"
     },
     {
       "ID": "29",
@@ -346,7 +346,7 @@
       "CityBorn": "Plymouth Notch, Vermont",
       "ImportantInformation": "Known for his quiet and frugal demeanor; presided over 1920s prosperity.",
       "Age": 60,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/30_calvin_coolidge.png"
     },
     {
       "ID": "30",
@@ -358,7 +358,7 @@
       "CityBorn": "West Branch, Iowa",
       "ImportantInformation": "Presidency dominated by the onset of the Great Depression.",
       "Age": 90,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/31_herbert_hoover.png"
     },
     {
       "ID": "31",
@@ -370,7 +370,7 @@
       "CityBorn": "Hyde Park, New York",
       "ImportantInformation": "Only president elected to four terms; led the U.S. during the Great Depression and World War II.",
       "Age": 63,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/32_franklin_d_roosevelt.png"
     },
     {
       "ID": "32",
@@ -382,7 +382,7 @@
       "CityBorn": "Lamar, Missouri",
       "ImportantInformation": "Ended World War II after dropping atomic bombs on Hiroshima and Nagasaki.",
       "Age": 88,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/33_harry_s_truman.png"
     },
     {
       "ID": "33",
@@ -394,7 +394,7 @@
       "CityBorn": "Denison, Texas",
       "ImportantInformation": "Supreme Commander of the Allied Expeditionary Forces in Europe during World War II.",
       "Age": 78,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/34_dwight_d_eisenhower.png"
     },
     {
       "ID": "34",
@@ -406,7 +406,7 @@
       "CityBorn": "Brookline, Massachusetts",
       "ImportantInformation": "Promoted the Space Race; assassinated in office.",
       "Age": 46,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/35_john_f_kennedy.png"
     },
     {
       "ID": "35",
@@ -418,7 +418,7 @@
       "CityBorn": "Stonewall, Texas",
       "ImportantInformation": "Signed the Civil Rights Act and the Voting Rights Act into law.",
       "Age": 64,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/36_lyndon_johnson.png"
     },
     {
       "ID": "36",
@@ -430,7 +430,7 @@
       "CityBorn": "Yorba Linda, California",
       "ImportantInformation": "First president to resign from office, due to the Watergate scandal.",
       "Age": 81,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/37_richard_nixon.png"
     },
     {
       "ID": "37",
@@ -442,7 +442,7 @@
       "CityBorn": "Omaha, Nebraska",
       "ImportantInformation": "Only person to have served as both vice president and president without being elected to either office.",
       "Age": 93,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/38_gerald_ford.png"
     },
     {
       "ID": "38",
@@ -454,7 +454,7 @@
       "CityBorn": "Plains, Georgia",
       "ImportantInformation": "Nobel Peace Prize laureate; known for his post-presidency humanitarian efforts.",
       "Age": 100,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/39_jimmy_carter.png"
     },
     {
       "ID": "39",
@@ -466,7 +466,7 @@
       "CityBorn": "Tampico, Illinois",
       "ImportantInformation": "Former actor and Governor of California; known for his economic policies known as 'Reaganomics'.",
       "Age": 93,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/40_ronald_reagan.png"
     },
     {
       "ID": "40",
@@ -478,7 +478,7 @@
       "CityBorn": "Milton, Massachusetts",
       "ImportantInformation": "Led the U.S. during the end of the Cold War and the Gulf War.",
       "Age": 94,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/41_george_hw_bush.png"
     },
     {
       "ID": "41",
@@ -490,7 +490,7 @@
       "CityBorn": "Hope, Arkansas",
       "ImportantInformation": "Second president to be impeached, but was acquitted by the Senate.",
       "Age": 78,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/42_bill_clinton.png"
     },
     {
       "ID": "42",
@@ -502,7 +502,7 @@
       "CityBorn": "New Haven, Connecticut",
       "ImportantInformation": "President during the September 11 attacks and initiated the Iraq War.",
       "Age": 78,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/43_george_w_bush.png"
     },
     {
       "ID": "43",
@@ -514,7 +514,7 @@
       "CityBorn": "Honolulu, Hawaii",
       "ImportantInformation": "First African American president of the United States; signed the Affordable Care Act.",
       "Age": 63,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/44_barack_obama.png"
     },
     {
       "ID": "44",
@@ -526,7 +526,7 @@
       "CityBorn": "Queens, New York",
       "ImportantInformation": "First president with no prior military or governmental service; impeached twice.",
       "Age": 78,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/45_donald_trump.png"
     },
     {
       "ID": "45",
@@ -538,7 +538,7 @@
       "CityBorn": "Scranton, Pennsylvania",
       "ImportantInformation": "Oldest president at inauguration; vice president under Barack Obama.",
       "Age": 82,
-      "ImageURL": ""
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/46_Joe_Biden.png"
     }
   ]
 }

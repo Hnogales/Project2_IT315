@@ -9,7 +9,7 @@
       "Terms": "1789-1797",
       "CityBorn": "Westmoreland County, Virginia",
       "ImportantInformation": "First President of the United States.",
-      "Age": 67
+      "Age": 67,
       "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/1_George_Washington.jpeg"
     },
     {
@@ -21,7 +21,8 @@
       "Terms": "1797-1801",
       "CityBorn": "Braintree, Massachusetts",
       "ImportantInformation": "Second President of the United States.",
-      "Age": 91
+      "Age": 91,
+      "ImageURL": ""
     },
     {
       "ID": "3",
@@ -32,7 +33,8 @@
       "Terms": "1801-1809",
       "CityBorn": "Shadwell, Virginia",
       "ImportantInformation": "Principal author of the Declaration of Independence.",
-      "Age": 83
+      "Age": 83,
+      "ImageURL": ""
     },
     {
       "ID": "4",
@@ -43,7 +45,8 @@
       "Terms": "1809-1817",
       "CityBorn": "Port Conway, Virginia",
       "ImportantInformation": "Father of the Constitution.",
-      "Age": 85
+      "Age": 85,
+      "ImageURL": ""
     },
     {
       "ID": "5",
@@ -54,7 +57,8 @@
       "Terms": "1817-1825",
       "CityBorn": "Monroe Hall, Virginia",
       "ImportantInformation": "Last president who was a Founding Father.",
-      "Age": 73
+      "Age": 73,
+      "ImageURL": ""
     },
     {
       "ID": "6",
@@ -65,7 +69,8 @@
       "Terms": "1825-1829",
       "CityBorn": "Braintree, Massachusetts",
       "ImportantInformation": "Son of John Adams, sixth President of the United States.",
-      "Age": 81
+      "Age": 81,
+      "ImageURL": ""
     },
     {
       "ID": "7",
@@ -76,7 +81,8 @@
       "Terms": "1829-1837",
       "CityBorn": "Waxhaws Region, South/North Carolina",
       "ImportantInformation": "Founder of the Democratic Party and modern political campaigning.",
-      "Age": 78
+      "Age": 78,
+      "ImageURL": ""
     },
     {
       "ID": "8",
@@ -87,7 +93,8 @@
       "Terms": "1837-1841",
       "CityBorn": "Kinderhook, New York",
       "ImportantInformation": "First President born as a citizen of the United States, not a British subject.",
-      "Age": 80
+      "Age": 80,
+      "ImageURL": ""
     },
     {
       "ID": "9",
@@ -98,7 +105,8 @@
       "Terms": "1841",
       "CityBorn": "Charles City County, Virginia",
       "ImportantInformation": "Served the shortest term in U.S. presidential history.",
-      "Age": 68
+      "Age": 68,
+      "ImageURL": ""
     },
     {
       "ID": "10",
@@ -109,7 +117,8 @@
       "Terms": "1841-1845",
       "CityBorn": "Charles City County, Virginia",
       "ImportantInformation": "First Vice President to become President due to the death of the President.",
-      "Age": 72
+      "Age": 72,
+      "ImageURL": ""
     },
     {
       "ID": "11",
@@ -120,7 +129,8 @@
       "Terms": "1845-1849",
       "CityBorn": "Pineville, North Carolina",
       "ImportantInformation": "Led the U.S. during the Mexican-American War.",
-      "Age": 53
+      "Age": 53,
+      "ImageURL": ""
     },
     {
       "ID": "12",
@@ -131,7 +141,8 @@
       "Terms": "1849-1850",
       "CityBorn": "Barboursville, Virginia",
       "ImportantInformation": "Died in office, making his term one of the shortest in U.S. presidential history.",
-      "Age": 65
+      "Age": 65,
+      "ImageURL": ""
     },
     {
       "ID": "13",
@@ -142,7 +153,8 @@
       "Terms": "1850-1853",
       "CityBorn": "Summerhill, New York",
       "ImportantInformation": "Last Whig to be President of the United States.",
-      "Age": 74
+      "Age": 74,
+      "ImageURL": ""
     },
     {
       "ID": "14",
@@ -153,7 +165,8 @@
       "Terms": "1853-1857",
       "CityBorn": "Hillsborough, New Hampshire",
       "ImportantInformation": "Signed the Kansas-Nebraska Act, which exacerbated sectional tensions.",
-      "Age": 64
+      "Age": 64,
+      "ImageURL": ""
     },
     {
       "ID": "15",
@@ -164,7 +177,8 @@
       "Terms": "1857-1861",
       "CityBorn": "Cove Gap, Pennsylvania",
       "ImportantInformation": "Only bachelor President and served immediately prior to the American Civil War.",
-      "Age": 77
+      "Age": 77,
+      "ImageURL": ""
     },
     {
       "ID": "16",
@@ -175,7 +189,8 @@
       "Terms": "1861-1865",
       "CityBorn": "Hodgenville, Kentucky",
       "ImportantInformation": "Led the nation through the Civil War; Emancipation Proclamation; assassinated in office.",
-      "Age": 56
+      "Age": 56,
+      "ImageURL": ""
     },
     {
       "ID": "17",
@@ -186,7 +201,8 @@
       "Terms": "1865-1869",
       "CityBorn": "Raleigh, North Carolina",
       "ImportantInformation": "First President to be impeached.",
-      "Age": 66
+      "Age": 66,
+      "ImageURL": ""
     },
     {
       "ID": "18",
@@ -197,7 +213,8 @@
       "Terms": "1869-1877",
       "CityBorn": "Point Pleasant, Ohio",
       "ImportantInformation": "Commanding general who led the Union to victory in the Civil War.",
-      "Age": 63
+      "Age": 63,
+      "ImageURL": ""
     },
     {
       "ID": "19",
@@ -208,7 +225,8 @@
       "Terms": "1877-1881",
       "CityBorn": "Delaware, Ohio",
       "ImportantInformation": "Ended Reconstruction in the Southern States.",
-      "Age": 70
+      "Age": 70,
+      "ImageURL": ""
     },
     {
       "ID": "20",
@@ -219,7 +237,8 @@
       "Terms": "March 1881 - September 1881",
       "CityBorn": "Moreland Hills, Ohio",
       "ImportantInformation": "Assassinated in office, serving only six months.",
-      "Age": 49
+      "Age": 49,
+      "ImageURL": ""
     },
     {
       "ID": "21",
@@ -230,7 +249,8 @@
       "Terms": "1881-1885",
       "CityBorn": "Fairfield, Vermont",
       "ImportantInformation": "Took office after the assassination of President Garfield.",
-      "Age": 57
+      "Age": 57,
+      "ImageURL": ""
     },
     {
       "ID": "22",
@@ -241,7 +261,8 @@
       "Terms": "1885-1889 and 1893-1897",
       "CityBorn": "Caldwell, New Jersey",
       "ImportantInformation": "Only President to serve two non-consecutive terms (22nd and 24th President).",
-      "Age": 71
+      "Age": 71,
+      "ImageURL": ""
     },
     {
       "ID": "23",
@@ -252,7 +273,8 @@
       "Terms": "1889-1893",
       "CityBorn": "North Bend, Ohio",
       "ImportantInformation": "Grandson of President William Henry Harrison.",
-      "Age": 68
+      "Age": 68,
+      "ImageURL": ""
     },
     {
       "ID": "24",
@@ -263,7 +285,8 @@
       "Terms": "1897-1901",
       "CityBorn": "Niles, Ohio",
       "ImportantInformation": "Led the nation during the Spanish-American War; assassinated in office.",
-      "Age": 58
+      "Age": 58,
+      "ImageURL": ""
     },
     {
       "ID": "25",
@@ -274,7 +297,8 @@
       "Terms": "1901-1909",
       "CityBorn": "New York, New York",
       "ImportantInformation": "Known for his vigorous lifestyle, Progressive credentials, and 'Big Stick' diplomacy.",
-      "Age": 60
+      "Age": 60,
+      "ImageURL": ""
     },
     {
       "ID": "26",
@@ -285,7 +309,8 @@
       "Terms": "1909-1913",
       "CityBorn": "Cincinnati, Ohio",
       "ImportantInformation": "Later served as Chief Justice of the U.S. Supreme Court.",
-      "Age": 72
+      "Age": 72,
+      "ImageURL": ""
     },
     {
       "ID": "27",
@@ -296,7 +321,8 @@
       "Terms": "1913-1921",
       "CityBorn": "Staunton, Virginia",
       "ImportantInformation": "Led the United States during World War I and was a key figure in the League of Nations.",
-      "Age": 67
+      "Age": 67,
+      "ImageURL": ""
     },
     {
       "ID": "28",
@@ -307,7 +333,8 @@
       "Terms": "1921-1923",
       "CityBorn": "Blooming Grove, Ohio",
       "ImportantInformation": "Presidency was marred by many scandals, including Teapot Dome.",
-      "Age": 57
+      "Age": 57,
+      "ImageURL": ""
     },
     {
       "ID": "29",
@@ -318,7 +345,8 @@
       "Terms": "1923-1929",
       "CityBorn": "Plymouth Notch, Vermont",
       "ImportantInformation": "Known for his quiet and frugal demeanor; presided over 1920s prosperity.",
-      "Age": 60
+      "Age": 60,
+      "ImageURL": ""
     },
     {
       "ID": "30",
@@ -329,7 +357,8 @@
       "Terms": "1929-1933",
       "CityBorn": "West Branch, Iowa",
       "ImportantInformation": "Presidency dominated by the onset of the Great Depression.",
-      "Age": 90
+      "Age": 90,
+      "ImageURL": ""
     },
     {
       "ID": "31",
@@ -340,7 +369,8 @@
       "Terms": "1933-1945",
       "CityBorn": "Hyde Park, New York",
       "ImportantInformation": "Only president elected to four terms; led the U.S. during the Great Depression and World War II.",
-      "Age": 63
+      "Age": 63,
+      "ImageURL": ""
     },
     {
       "ID": "32",
@@ -351,7 +381,8 @@
       "Terms": "1945-1953",
       "CityBorn": "Lamar, Missouri",
       "ImportantInformation": "Ended World War II after dropping atomic bombs on Hiroshima and Nagasaki.",
-      "Age": 88
+      "Age": 88,
+      "ImageURL": ""
     },
     {
       "ID": "33",
@@ -362,7 +393,8 @@
       "Terms": "1953-1961",
       "CityBorn": "Denison, Texas",
       "ImportantInformation": "Supreme Commander of the Allied Expeditionary Forces in Europe during World War II.",
-      "Age": 78
+      "Age": 78,
+      "ImageURL": ""
     },
     {
       "ID": "34",
@@ -373,7 +405,8 @@
       "Terms": "1961-1963",
       "CityBorn": "Brookline, Massachusetts",
       "ImportantInformation": "Promoted the Space Race; assassinated in office.",
-      "Age": 46
+      "Age": 46,
+      "ImageURL": ""
     },
     {
       "ID": "35",
@@ -384,7 +417,8 @@
       "Terms": "1963-1969",
       "CityBorn": "Stonewall, Texas",
       "ImportantInformation": "Signed the Civil Rights Act and the Voting Rights Act into law.",
-      "Age": 64
+      "Age": 64,
+      "ImageURL": ""
     },
     {
       "ID": "36",
@@ -395,7 +429,8 @@
       "Terms": "1969-1974",
       "CityBorn": "Yorba Linda, California",
       "ImportantInformation": "First president to resign from office, due to the Watergate scandal.",
-      "Age": 81
+      "Age": 81,
+      "ImageURL": ""
     },
     {
       "ID": "37",
@@ -406,7 +441,8 @@
       "Terms": "1974-1977",
       "CityBorn": "Omaha, Nebraska",
       "ImportantInformation": "Only person to have served as both vice president and president without being elected to either office.",
-      "Age": 93
+      "Age": 93,
+      "ImageURL": ""
     },
     {
       "ID": "38",
@@ -417,7 +453,8 @@
       "Terms": "1977-1981",
       "CityBorn": "Plains, Georgia",
       "ImportantInformation": "Nobel Peace Prize laureate; known for his post-presidency humanitarian efforts.",
-      "Age": 100
+      "Age": 100,
+      "ImageURL": ""
     },
     {
       "ID": "39",
@@ -428,7 +465,8 @@
       "Terms": "1981-1989",
       "CityBorn": "Tampico, Illinois",
       "ImportantInformation": "Former actor and Governor of California; known for his economic policies known as 'Reaganomics'.",
-      "Age": 93
+      "Age": 93,
+      "ImageURL": ""
     },
     {
       "ID": "40",
@@ -439,7 +477,8 @@
       "Terms": "1989-1993",
       "CityBorn": "Milton, Massachusetts",
       "ImportantInformation": "Led the U.S. during the end of the Cold War and the Gulf War.",
-      "Age": 94
+      "Age": 94,
+      "ImageURL": ""
     },
     {
       "ID": "41",
@@ -450,7 +489,8 @@
       "Terms": "1993-2001",
       "CityBorn": "Hope, Arkansas",
       "ImportantInformation": "Second president to be impeached, but was acquitted by the Senate.",
-      "Age": 78
+      "Age": 78,
+      "ImageURL": ""
     },
     {
       "ID": "42",
@@ -461,7 +501,8 @@
       "Terms": "2001-2009",
       "CityBorn": "New Haven, Connecticut",
       "ImportantInformation": "President during the September 11 attacks and initiated the Iraq War.",
-      "Age": 78
+      "Age": 78,
+      "ImageURL": ""
     },
     {
       "ID": "43",
@@ -472,7 +513,8 @@
       "Terms": "2009-2017",
       "CityBorn": "Honolulu, Hawaii",
       "ImportantInformation": "First African American president of the United States; signed the Affordable Care Act.",
-      "Age": 63
+      "Age": 63,
+      "ImageURL": ""
     },
     {
       "ID": "44",
@@ -483,7 +525,8 @@
       "Terms": "2017-2021",
       "CityBorn": "Queens, New York",
       "ImportantInformation": "First president with no prior military or governmental service; impeached twice.",
-      "Age": 78
+      "Age": 78,
+      "ImageURL": ""
     },
     {
       "ID": "45",
@@ -494,7 +537,8 @@
       "Terms": "2021-present",
       "CityBorn": "Scranton, Pennsylvania",
       "ImportantInformation": "Oldest president at inauguration; vice president under Barack Obama.",
-      "Age": 82
+      "Age": 82,
+      "ImageURL": ""
     }
   ]
 }

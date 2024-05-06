@@ -109,7 +109,7 @@
       "CityBorn": "Charles City County, Virginia",
       "ImportantInformation": "First Vice President to become President due to the death of the President.",
       "Age": 72
-    }
+    },
     {
       "ID": "11",
       "Name": "James K. Polk",
@@ -219,7 +219,7 @@
       "CityBorn": "Moreland Hills, Ohio",
       "ImportantInformation": "Assassinated in office, serving only six months.",
       "Age": 49
-    }
+    },
     {
       "ID": "21",
       "Name": "Chester A. Arthur",
@@ -329,7 +329,7 @@
       "CityBorn": "West Branch, Iowa",
       "ImportantInformation": "Presidency dominated by the onset of the Great Depression.",
       "Age": 90
-    }
+    },
     {
       "ID": "31",
       "Name": "Franklin D. Roosevelt",
@@ -439,7 +439,7 @@
       "CityBorn": "Milton, Massachusetts",
       "ImportantInformation": "Led the U.S. during the end of the Cold War and the Gulf War.",
       "Age": 94
-    }
+    },
     {
       "ID": "41",
       "Name": "Bill Clinton",

@@ -10,7 +10,7 @@
       "CityBorn": "Westmoreland County, Virginia",
       "ImportantInformation": "First President of the United States.",
       "Age": "67",
-      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/1_George_Washington.jpeg"
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/1_George_Washington.png"
     },
     {
       "ID": "2",
@@ -22,7 +22,7 @@
       "CityBorn": "Braintree, Massachusetts",
       "ImportantInformation": "Second President of the United States.",
       "Age": "91",
-      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/2_John_Adams.jpg"
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/2_John_Adams.png"
     },
     {
       "ID": "3",
@@ -34,7 +34,7 @@
       "CityBorn": "Shadwell, Virginia",
       "ImportantInformation": "Principal author of the Declaration of Independence.",
       "Age": "83",
-      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/3_Thomas_Jefferson.jpeg"
+      "ImageURL": "https://raw.githubusercontent.com/Hnogales/Project2_IT315/main/Project2_data/3_Thomas_Jefferson.png"
     },
     {
       "ID": "4",
